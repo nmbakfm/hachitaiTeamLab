@@ -79,6 +79,7 @@
 'Assets/Example/Scripts/Example.cs'
 'Assets/Example/Scripts/InstanceBall.cs'
 'Assets/Scripts/Ball.cs'
+'Assets/Scripts/BallDestroyer.cs'
 'Assets/Scripts/Events/EventManager.cs'
 'Assets/Scripts/Networking/WebSocketClient.cs'
 'Assets/Scripts/wallRotation.cs'

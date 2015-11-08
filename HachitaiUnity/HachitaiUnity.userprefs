@@ -1,10 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Networking/WebSocketClient.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BallDestroyer.cs">
     <Files>
-      <File FileName="Assets/Example/Scripts/Example.cs" Line="39" Column="2" />
-      <File FileName="Assets/Scripts/Networking/WebSocketClient.cs" Line="74" Column="6" />
-      <File FileName="Assets/Scripts/Events/EventManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Networking/WebSocketClient.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/wallRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BallDestroyer.cs" Line="36" Column="11" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

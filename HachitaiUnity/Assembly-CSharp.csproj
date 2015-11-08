@@ -59,7 +59,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="websocket-sharp">
- <HintPath>/Users/kuma/Desktop/hachitaiTeamLab/HachitaiUnity/Assets/Plugins/websocket-sharp/websocket-sharp.dll</HintPath>
+ <HintPath>/Users/koikeyoshitsugu/Downloads/hachitaiTeamLab/HachitaiUnity/Assets/Plugins/websocket-sharp/websocket-sharp.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
