@@ -47,6 +47,8 @@
   <ItemGroup>
      <Compile Include="Assets\Example\Scripts\Example.cs" />
      <Compile Include="Assets\Example\Scripts\InstanceBall.cs" />
+     <Compile Include="Assets\Scripts\Ball.cs" />
+     <Compile Include="Assets\Scripts\BallDestroyer.cs" />
      <Compile Include="Assets\Scripts\Events\EventManager.cs" />
      <Compile Include="Assets\Scripts\Networking\WebSocketClient.cs" />
      <Compile Include="Assets\Scripts\wallRotation.cs" />
